@@ -5,6 +5,7 @@ This CodeBook describes the variables and their associated values of the tidy se
 
 ### ID Fields
 subjects - participant ID
+
 activity - label of activity performed
 
 ### Extracted features from [1]
