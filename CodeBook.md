@@ -96,10 +96,15 @@ Values from 1 to 30.
 
 ### activity labels:
 WALKING
+
 WALKING_UPSTAIRS
+
 WALKING_DOWNSTAIRS
+
 SITTING
+
 STANDING
+
 LAYING
 
 ### features
