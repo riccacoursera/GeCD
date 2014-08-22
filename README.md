@@ -6,25 +6,25 @@ In order to run the script, open the file run_analysis.R and run it within RStud
 Steps:
 The script is structured into the following steps:
 
-- PRE-PROCESSING
--- Load data from online available zip file
--- Extract the zip file
--- Read its content into defined R variables
+* PRE-PROCESSING
+** Load data from online available zip file
+** Extract the zip file
+** Read its content into defined R variables
 
-- PROBLEM 1
--- Merge the training and the test sets to create one data set
+* PROBLEM 1
+** Merge the training and the test sets to create one data set
 
-- PROBLEM 2
--- Extract only the measurements on the mean and standard deviation for each measurement
+* PROBLEM 2
+** Extract only the measurements on the mean and standard deviation for each measurement
 
-- PROBLEM 3
--- Use descriptive activity names to name the activities in the data set
+* PROBLEM 3
+** Use descriptive activity names to name the activities in the data set
 
-- PROBLEM 4
--- Labels the data set with descriptive variable names
+* PROBLEM 4
+** Labels the data set with descriptive variable names
 
-- PROBLEM 5
--- Create a second, independent tidy data set with the average of each variable for each activity and each subject
+* PROBLEM 5
+** Create a second, independent tidy data set with the average of each variable for each activity and each subject
 
 Packages:
 Before calling any package, I verify if the package I am going to use is installed in your machine, and in case the package will be installed.
